@@ -6,7 +6,7 @@ This plugin requires cordova 5.0+ ( current stable 1.0.0 )
 cordova plugin add cordova-plugin-geolocation
 ```
 
-###framework
+### framework
 [phone gap framework](https://phonegap.com/) 
 
 ### more documentation
